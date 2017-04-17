@@ -1,0 +1,5 @@
+# The GPIO id it is running to trigger the water pump
+pin: CSID0
+
+#default time to run in seconds
+time: 60
